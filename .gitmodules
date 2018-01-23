@@ -1,0 +1,3 @@
+[submodule "dic-common-api"]
+	path = dic-common-api
+	url = https://github.com/seantdg/dic-common-api.git
